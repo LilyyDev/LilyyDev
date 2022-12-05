@@ -12,5 +12,5 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <hr>
-  <a href="http://www.github.com/tnarla"><img src="https://github-readme-stats.vercel.app/api?username=sophed&show_icons=true&theme=react" alt="Sophed's GitHub stats"/></a>
+  <a href="http://www.github.com/sophed"><img src="https://github-readme-stats.vercel.app/api?username=sophed&show_icons=true&theme=react" alt="Sophed's GitHub stats"/></a>
 </div>
