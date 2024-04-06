@@ -8,7 +8,7 @@ I am currently:
 - 🌲 Developing server plugins
 - 🐛 Researching and reporting bugs
 - 📖 Learning some trendy language
-- 🤖 Copilot free (mostly) 29/03/2024
+- 🤖 Copilot free (mostly) since 29/03/2024
 
 <br>
 
