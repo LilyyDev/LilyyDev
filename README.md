@@ -6,8 +6,9 @@ I am currently:
 - 🔎 Studying computer science
 - 🔧 Building back end systems
 - 🌲 Developing server plugins
-- 🐛 Researching and reporting bugs to server owners
-- 📖 Learning whatever the trendy systems language is
+- 🐛 Researching and reporting bugs
+- 📖 Learning some trendy language
+- 🤖 Copilot free (mostly) 29/03/2024
 
 <br>
 
